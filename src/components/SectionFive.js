@@ -7,8 +7,8 @@ function SectionFive() {
                 <div className="row py-5">
                     <div className="col-sm-10 offset-sm-2">
                         <div className="bottle-wapper">
-                            <img src="../img/bottles/bottle1.png" alt="" className="bottle-img" />
-                            <img src="../img/bottles/title1.png" alt="" className="title-img pl-sm-5 px-3" />
+                            <img src="./assets/img/bottles/bottle1.png" alt="" className="bottle-img" />
+                            <img src="./assets/img/bottles/title1.png" alt="" className="title-img pl-sm-5 px-3" />
                             <div className="blue-box pl-sm-5 px-3 my-3">
                                 <div className="heading">FULLY SYNTHETIC ALL ROUNDED PROTECTION FOR MULTIPLE CAR MAKES AND MODELS</div>
                                 API SN, ACEA A3/B4 <br/>
@@ -32,8 +32,8 @@ function SectionFive() {
                  <div className="row py-5">
                     <div className="col-sm-10 offset-sm-2">
                         <div className="bottle-wapper">
-                            <img src="../img/bottles/bottle2.png" alt="" className="bottle-img" />
-                            <img src="../img/bottles/title2.png" alt="" className="title-img pl-sm-5 px-3" />
+                            <img src="./assets/img/bottles/bottle2.png" alt="" className="bottle-img" />
+                            <img src="./assets/img/bottles/title2.png" alt="" className="title-img pl-sm-5 px-3" />
                             
                             
                             <div className="blue-box pl-sm-5 px-3 my-3">
@@ -59,8 +59,8 @@ function SectionFive() {
                  <div className="row py-5">
                     <div className="col-sm-10 offset-sm-2">
                         <div className="bottle-wapper">
-                            <img src="../img/bottles/bottle3.png" alt="" className="bottle-img" />
-                            <img src="../img/bottles/title3.png" alt="" className="title-img pl-sm-5 px-3" />
+                            <img src="./assets/img/bottles/bottle3.png" alt="" className="bottle-img" />
+                            <img src="./assets/img/bottles/title3.png" alt="" className="title-img pl-sm-5 px-3" />
                             <div className="blue-box pl-sm-5 px-3 my-3">
                                 <div className="heading">FULLY SYNTHETIC ALL ROUNDED PROTECTION 4T MOTORCYCLE OIL FOR MOST MAKES AND MODELS</div>
                                 API SN, JASO MA2
@@ -83,8 +83,8 @@ function SectionFive() {
                  <div className="row py-5">
                     <div className="col-sm-10 offset-sm-2">
                         <div className="bottle-wapper">
-                            <img src="../img/bottles/bottle4.png" alt="" className="bottle-img" />
-                            <img src="../img/bottles/title4.png" alt="" className="title-img pl-sm-5 px-3" />
+                            <img src="./assets/img/bottles/bottle4.png" alt="" className="bottle-img" />
+                            <img src="./assets/img/bottles/title4.png" alt="" className="title-img pl-sm-5 px-3" />
                             <div className="blue-box pl-sm-5 px-3 my-3">
                                 <div className="heading">PREMIUM PREMIXED RADIATOR COOLANT WITH CORROSION AND DEPOSIT PROTECTION FOR IMMEDIATE APPLICATION</div>
                                 ASTM D3306, ASTM D4340
@@ -106,8 +106,8 @@ function SectionFive() {
                  <div className="row py-5">
                     <div className="col-sm-10 offset-sm-2">
                         <div className="bottle-wapper">
-                            <img src="../img/bottles/bottle5.png" alt="" className="bottle-img" />
-                            <img src="../img/bottles/title5.png" alt="" className="title-img pl-sm-5 px-3" />
+                            <img src="./assets/img/bottles/bottle5.png" alt="" className="bottle-img" />
+                            <img src="./assets/img/bottles/title5.png" alt="" className="title-img pl-sm-5 px-3" />
                             <div className="blue-box pl-sm-5 px-3 my-3">
                                 <div className="heading">HIGH PERFORMANCE AUTOMATIC TRANSMISSION FLUID FOR MODERN PASSENGER CARS AND LIGHT
                                     COMMERCIAL VEHICLE</div>

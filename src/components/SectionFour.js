@@ -12,7 +12,7 @@ function SectionFour() {
                 </span>
             </div>
             <div className="section-four-bg mt-3">
-            <img src="../img/4.png" alt="" className="custom-img-fluid " />
+            <img src="./assets/img/4.png" alt="" className="custom-img-fluid " />
              <div className="container mt-3">
                  <p className="text-center font-large">SPC Lubricants enhances your driving experience by caring for the engine of your car. It contains <br />cleaning additives that help prevent sludge formation, giving you a smoother and more enjoyable  <br />driving experience.</p>
             </div>

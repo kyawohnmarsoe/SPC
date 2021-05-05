@@ -4,7 +4,7 @@ function Nav() {
     return (
         <div>
             <nav className="navbar navbar-expand-lg navbar-dark bg-gold">
-                <a className="navbar-brand" href="#"><img src="../img/logo.png" alt="" className="site-logo" /></a>
+                <a className="navbar-brand" href="/"><img src="./assets/img/logo.png" alt="" className="site-logo" /></a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
@@ -16,10 +16,10 @@ function Nav() {
                     </li>
         
                     <li className="nav-item">
-                        <a className="nav-link" href="https://www.instagram.com/spclubricants/?hl=en"><img src="../img/instagram.svg" alt="" className="social-icon" /></a>
+                        <a className="nav-link" href="https://www.instagram.com/spclubricants/?hl=en"><img src="./assets/img/instagram.svg" alt="" className="social-icon" /></a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="https://www.facebook.com/spclubricants"><img src="../img/facebook.svg" alt="" className="social-icon" /></a>
+                        <a className="nav-link" href="https://www.facebook.com/spclubricants"><img src="./assets/img/facebook.svg" alt="" className="social-icon" /></a>
                     </li>
                     </ul>
                     

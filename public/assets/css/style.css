@@ -3,19 +3,19 @@
 }
 @font-face {
     font-family: "HelBold";
-    src: url(font/HelBold.ttf);
+    src: url(../font/HelBold.ttf);
 }
 @font-face {
     font-family: "LinoHeavy";
-    src: url(font/LinoHeavy.otf);
+    src: url(../font/LinoHeavy.otf);
 }
 @font-face {
     font-family: "DINMedium";
-    src: url(font/DINMedium.otf);
+    src: url(../font/DINMedium.otf);
 }
 @font-face {
     font-family: "DINBold";
-    src: url(font/DINBold.otf);
+    src: url(../font/DINBold.otf);
 }
 html,body{
     margin:0;
